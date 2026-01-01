@@ -12,7 +12,7 @@ I am a hybrid engineer with **2.6+ years of experience** bridging the gap betwee
 ### 🛠️ Technical Arsenal
 
 **Frontend & Backend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,22 +33,17 @@ I am a hybrid engineer with **2.6+ years of experience** bridging the gap betwee
 
 ### 🏆 Featured Engineering Highlights
 
+#### 🎟️ [Event Management Platform (MERN Stack)](https://github.com/Rocksri/EventManagement)
+*Production-grade event booking and management system.*
+* **Features:** **Stripe** payment integration, **JWT** Authentication (Cookies), and Ticket QR Generation.
+* **Architecture:** RESTful API with **MongoDB Aggregation** for real-time sales analytics and **Swagger** documentation.
+* **Tech:** React (Vite), Node.js, Express, Redux, TailwindCSS.
+
 #### 🔐 [Enterprise Security Module (Python)](https://github.com/Rocksri/BeyondTrust)
 *Architected a reusable Python OOP library for secure credential management.*
 * **Challenge:** Migrating 150+ bots to a new security standard was becoming a bottleneck.
 * **Solution:** Built a centralized module to interact with the **BeyondTrust Vault API**.
 * **Result:** Adopted by the wider engineering team, accelerating the migration of **150+ bots**.
-
-#### 📡 [Starlink B2B Monitor (Node.js/Python)](https://github.com/Rocksri)
-*Real-time bandwidth monitoring service for enterprise clients.*
-* **Tech:** Node.js, Starlink API, SMTP.
-* **Logic:** Polls usage data and triggers critical alerts to management when **75% bandwidth threshold** is breached.
-* **Impact:** Enabled proactive data management and zero overage fees.
-
-#### 🎟️ [Event Management Platform (MERN Stack)](https://github.com/Rocksri/EventManagement)(https://github.com/Rocksri/online_event_manage)
-*Production-grade event booking system.*
-* **Features:** **Stripe** payment integration, **JWT** Authentication, and **MongoDB Aggregation** for real-time sales analytics.
-* **Architecture:** RESTful API with Role-Based Access Control (RBAC).
 
 ---
 
