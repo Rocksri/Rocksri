@@ -47,8 +47,7 @@ I am a hybrid engineer with **2.6+ years of experience** bridging the gap betwee
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rocksri&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rocksri&theme=dark)
+![Compact Stats](https://github-readme-stats.vercel.app/api?username=Rocksri&show_icons=true&theme=radical&layout=compact)
 
 ---
 
